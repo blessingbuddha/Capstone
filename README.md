@@ -1,4 +1,4 @@
-# Capstone
+# A First-Time Homebuyer's Guide in Houston, TX
 My Capstone project repository, the culmination of my academic journey, 
 tackles best areas to purchase a home in the Houston city limits. Leveraging Excel, Python, and SQL, it showcases my skills in data cleaning, wrangling and execution.
 
