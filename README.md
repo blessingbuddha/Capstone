@@ -15,6 +15,7 @@ Folders & Files:
 - Matplotlib
 - Microsoft Excel
 - SQLite
+- Tableau
 
 ### Installation
 Clone the repo
