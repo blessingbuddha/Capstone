@@ -21,7 +21,7 @@ Folders & Files:
 Clone the repo
 
 ```bash
-git clone (https://github.com/blessingbuddha/Capstone.git)
+git clone (https://github.com/blessingbuddha/Capstone-Project.git)
 ```
 
 Install Python packages
