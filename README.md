@@ -4,8 +4,9 @@ tackles best areas to purchase a home in the Houston city limits. Leveraging Exc
 
 ## Features
 Folders & Files: 
-1. Data sets aquired for crime rates, mls sold homes, and school ratings.
-2. Group data sets that were cleaned and SQL tables
+1. Cleaned Data sets via Excel, Python & SQL tables
+2. Raw data sets aquired for crime rates, mls sold homes, and school ratings.
+3. Tableau Visualization
 
 ## Getting Started
 ### Prerequisites
@@ -32,3 +33,7 @@ pip install numpy
 pip install matplotlib
 pip install pandas
 ```
+## Directory
+1. Click on "Cleaned Data" Folder
+2. Click to TableauPublic Workbook to see full visualization story
+   - OPTIONAL: Can look through Python and SQL to see the data being wrangled or Excel to see the fully cleaned data set
