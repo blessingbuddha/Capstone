@@ -7,6 +7,7 @@ Folders & Files:
 1. Cleaned Data sets via Excel, Python & SQL tables
 2. Raw data sets aquired for crime rates, mls sold homes, and school ratings.
 3. Tableau Visualization
+4. Capstone Project Planner (Word Doc)
 
 ## Getting Started
 ### Prerequisites
